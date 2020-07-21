@@ -1,4 +1,4 @@
 hai
 git study
 learning
-edit on master branch for merging
+edit on master branch for merging.
